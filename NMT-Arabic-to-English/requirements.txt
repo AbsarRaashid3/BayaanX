@@ -1,8 +1,10 @@
-torch
-torchvision
-torchaudio
-streamlit
-datasets
-tqdm
-numpy
-scikit-learn
+# PyTorch CPU version for deployment on Streamlit Cloud
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+streamlit==1.42.2
+datasets==2.8.0
+tqdm==4.64.0
+numpy==1.23.5
+scikit-learn==1.2.2
