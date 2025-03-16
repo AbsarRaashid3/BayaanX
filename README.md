@@ -73,4 +73,9 @@ Epochs: 50
 **Streamlit – for the interactive UI**
 ## 📌 Developed by Absar Raashid 
 
+## Some Results:
+![NMT11](https://github.com/user-attachments/assets/42ee6e77-0332-437a-9977-44f5cbf44c90)
+![NMT2](https://github.com/user-attachments/assets/976e2826-b7e9-4cb4-9ef7-bb954297b185)
+![NMT3](https://github.com/user-attachments/assets/2388f474-6008-4561-9b20-5af48ab489ba)
+
 
